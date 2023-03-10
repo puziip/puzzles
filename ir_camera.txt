@@ -3,3 +3,4 @@
 - filter wheel
 - camera optics
 - detector
+more stuff
