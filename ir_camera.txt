@@ -4,3 +4,4 @@
 - camera optics
 - detector
 more stuff
+cweceq
